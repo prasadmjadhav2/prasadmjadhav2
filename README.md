@@ -1,15 +1,16 @@
-![MasterHead](https://923259.smushcdn.com/2321054/wp-content/uploads/2019/05/what-is-data-science-1-1536x864.jpg?lossy=0&strip=1&webp=1)
 <h1 align="center">Hi 👋 I'm Prasad Jadhav</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadmjadhav2&label=Profile%20views&color=0e75b6&style=flat" alt="prasadmjadhav2" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+My ambitious dream to become a data scientist is soon to be a reality, Spending hours looking for the most appropriate content for you never makes me tired.
 
-- 💬 Ask me about **My ambitious dream to become a data scientist is soon to be a reality. Spending hours looking for the most appropriate content for you never makes me tired.**
+- 🌱 I’m currently learning : **Machine Learning**
 
-- 📫 How to reach me **prasadmjadhav6161@gmail.com**
+- 💬 Ask me about : **Python Libraries like : NumPy, Pandas, Matplotlib, Seaborn, Streamlit, Plotly Dash, Scikit-learn, OpenCV to deploy Project's**
+
+- 📫 How to reach me : **prasadmjadhav6161@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
